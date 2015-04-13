@@ -2,8 +2,8 @@
 title: Estudio Falke-Rey
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://falke.com.ar" # the base hostname & protocol for your site
+baseurl: "/estudio_falke/" # the subpath of your site, e.g. /blog/
+url: "http://alexfalke.com.ar" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
